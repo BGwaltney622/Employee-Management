@@ -1,2 +1,0 @@
-Mike Smith, 123123123, 999-888-7777, mike@gmail.com, 6000
-Sara Smith, 123123111, 111-222-4444, sara@gmail.com, 6500
